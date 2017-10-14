@@ -204,7 +204,7 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Marta Padilha"
-      position = "Designer"
+      position = "Consultora Creativa"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
       img = "person3.jpg"
       alt = "Person3"
