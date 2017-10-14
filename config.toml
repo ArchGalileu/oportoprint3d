@@ -49,24 +49,24 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Montagem"
     description = "Montagem individual de Impressora 3D Anet A8 + updates + Raspberry c/ câmara, em kit ."
-    url = "#"
-    button = "Get In Touch"
+    url = "workshop/montagem"
+    button = "Com o quê?"
     icon = "icon-wrench"
     img = "img_7.jpg"
 
   [[params.intro.item]]
     title = "Modelação 3D"
     description = "Noções básicas modelação tridimensional (Autodesk Inventor)."
-    url = "#"
-    button = "Click Me"
+    url = "workshop/modelacao-3d"
+    button = "Que precisas?"
     icon = "icon-laptop"
     img = "img_8.jpg"
 
   [[params.intro.item]]
     title = "Impressão"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Why us?"
+    description = "Impressão tridimensional do objecto modelado."
+    url = "workshop/impressao"
+    button = "A acção?"
     icon = "icon-hand-o-up"
     img = "img_10.jpg"
 
