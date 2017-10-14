@@ -261,7 +261,7 @@ theme = "hugo-elate-theme"
     
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "Rua da Paz 66, 5º piso, Sala 56<br> Porto, Portugal"],
+        ["icon-home", "Rua da Paz 66, 5º piso, Sala 56<br> 4050-461 Porto, Portugal"],
         ["icon-phone", "(+351) 91-818-8668 / 91-462-2417"],
         ["icon-envelope", "info@oportoprint3d.eu"],
         ["icon-globe", '<a href="http://www.oportoprint3d.eu/" target="_blank">OportoPrint3d</a>']
