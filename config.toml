@@ -70,11 +70,11 @@ theme = "hugo-elate-theme"
     icon = "icon-rocket"
     img = "img_10.jpg"
 
-  [params.intro.video]
-    enable = true
-    title = "Watch the video"
-    icon = "icon-play2"
-    url = "https://vimeo.com/channels/staffpicks/93951774"
+#  [params.intro.video]
+#    enable = true
+#    title = "Watch the video"
+#    icon = "icon-play2"
+#    url = "https://vimeo.com/channels/staffpicks/93951774"
 
 
   # Work section
