@@ -16,7 +16,7 @@ theme = "hugo-elate-theme"
   [params.navigation]
     brand = "OportoPrint3d"
     home = "Início"
-    #work = "Work"
+    work = "Work"
     testimonials = "Testimonials"
     services = "Services"
     about = "About"
