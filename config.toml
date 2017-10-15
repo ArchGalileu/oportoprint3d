@@ -18,9 +18,9 @@ theme = "hugo-elate-theme"
     home = "Início"
     work = "Work"
     testimonials = "Testimonials"
-    services = "Services"
-    about = "About"
-    contact = "Contact"
+    services = "Para quem?"
+    about = "Equipa"
+    contact = "Inscrição"
 
     # You can add custom links before or after the default links
     # Assign a weight to define the order
@@ -56,7 +56,7 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Modelação 3D"
-    description = "Noções básicas modelação tridimensional (Autodesk Inventor)."
+    description = "Noções de modelação tridimensional (criação de modelos em Autodesk Inventor)."
     url = "workshop/modelacao-3d"
     button = "Que precisas?"
     icon = "icon-laptop"
@@ -150,26 +150,27 @@ theme = "hugo-elate-theme"
   # Services section
   [params.services]
     enable = true
-    title = "Services"
+    title = "Para quem?"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
     [[params.services.item]]
-      title = "Brand &amp; Strategy"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "Designers &amp; Engenheiros"
+      description = "Garantidamente neste workshop vais aprender novas linguagens, ferramentas e conhecimento para executar os seus protótipos e projetos."
       icon = "icon-anchor"
 
     [[params.services.item]]
-      title = "Web &amp; Interface"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "Empreendedores"
+      description = "Compreender os potenciais da tecnologia inerente a impressão 3D e explorar a oportunidade de aplicar esta tecnologia a tua ideia de negócio."
       icon = "icon-layers2"
+      
     [[params.services.item]]
-      title = "Photo &amp; Video"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "Makers &amp; Entusiastas 3D"
+      description = "Vem-te divertir partilhando a tua experiência e conhecimentos em open source e 3d printing! Precisamos de ti nesta equipa que acredita que o futuro é agora!"
       icon = "icon-video2"
 
       [[params.services.item]]
-      title = "CMS &amp; eCommerce"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
+      title = "Estudantes (> 16 anos)"
+      description = "Interessados em robótica, habituados a montar kits, com conhecimentos básico em 3D Printing. Aqui podes partilhar experiências com a comunidade Maker e libertar a tua criatividade e a imaginação."      
       icon = "icon-monitor"
 
   # About section
@@ -180,7 +181,7 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Gaspar Santos"
-      position = "Open Source enthusiast"
+      position = "Apaixonado Open source"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
       img = "person1.jpg"
       alt = "Person1"
