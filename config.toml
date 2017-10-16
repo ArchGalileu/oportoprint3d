@@ -181,14 +181,13 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Gaspar Santos"
-      position = "Apaixonado Open source"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      position = "Open source 3D"
+      description = "Violinista à 30 anos, Linux à 20 anos, Servidores à 15 anos, 3D printer for life, with RaspBerry..."
       img = "person1.jpg"
       alt = "Person1"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
+        ["icon-globe", "https://gasparsantos.eu"],
+        ["icon-facebook", "https://www.facebook.com/gasparsantosviolinista"]
       ]
 
     [[params.about.item]]
@@ -198,9 +197,8 @@ theme = "hugo-elate-theme"
       img = "person2.jpg"
       alt = "Person2"
       social = [
-        ["icon-twitter", "#"],
+        ["icon-globe", "#"],
         ["icon-facebook", "#"],
-        ["icon-github", "#"]
       ]
 
     [[params.about.item]]
@@ -210,9 +208,9 @@ theme = "hugo-elate-theme"
       img = "person3.jpg"
       alt = "Person3"
       social = [
-        ["icon-twitter", "#"],
+        ["icon-globe", "#"],
         ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
+        ["icon-twitter", "#"]
       ]      
 
   # Counters section
@@ -221,6 +219,14 @@ theme = "hugo-elate-theme"
     title = "Stats"
     background = "full_image_1.jpg"
 
+    [[params.counters.item]]
+      description = "Participantes"
+      icon = "icon-people"
+      from = 0
+      to = 10
+      interval = 50
+      speed = 5000
+    
     [[params.counters.item]]
       description = "Finished projects"
       icon = "icon-briefcase"
@@ -245,13 +251,7 @@ theme = "hugo-elate-theme"
       interval = 50
       speed = 5000
 
-    [[params.counters.item]]
-      description = "Participantes"
-      icon = "icon-people"
-      from = 0
-      to = 10
-      interval = 50
-      speed = 5000
+    
 
   # Contact section
   [params.contact]
