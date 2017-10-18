@@ -192,8 +192,8 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Miguel Magalhães"
-      position = "Arquicteto"
-      description = "Miguel Magalhães nasce em Braga em 1975. Conclui arquitectura no Porto em 2005. Co-fundador do gabinete MMPM arquitectos. Exerce, desde 2009, funções de docente/formador em várias empresas do sector da construção e arquitectura."
+      position = "Arquitecto"
+      description = "Conclui arquitectura no Porto em 2005. Co-fundador do gabinete MMPMarquitectos. Exerce, desde 2009, funções de docente/formador em várias empresas do sector da construção e arquitectura."
       img = "person2.jpg"
       alt = "Person2"
       social = [
