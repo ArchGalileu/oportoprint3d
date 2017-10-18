@@ -5,13 +5,13 @@ languageCode = "en-us"
 theme = "hugo-elate-theme"
 
 [params]
-  
+
   #custom_css = ["css/custom1.css", "css/custom2.css"]
 
   # Meta
-  author = ""
-  description = ""
-  email = ""
+  author = "OportoPrint3d"
+  description = "Workshops e outras actividades relacionadas com o mundo 3D"
+  email = "info@oportoprint3d.eu"
   # Navigation
   [params.navigation]
     brand = "OportoPrint3d"
@@ -24,7 +24,7 @@ theme = "hugo-elate-theme"
 
     # You can add custom links before or after the default links
     # Assign a weight to define the order
-    
+
     # prepended links
     #[[menu.prepend]]
     #  url = "http://gohugo.io"
@@ -36,12 +36,12 @@ theme = "hugo-elate-theme"
     #  url = "http://gohugo.io"
     #  name = "External link"
     #  weight = 10
-  
+
   # Hero section
   [params.hero]
     title = "É agora!<br>Constrói a tua Impressora 3D"
     subtitle = 'Durante as 20h do workshop,<br>vais construir a tua Impressora 3d, aprender modelação 3D e começar a imprimir para não mais parar!'
- 
+
   # Intro section
   # Available icons: http://simplelineicons.com/
   [params.intro]
@@ -143,7 +143,7 @@ theme = "hugo-elate-theme"
       person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
       img = "person3.jpg"
       alt = "Person3"
-    
+
 
 
 
@@ -162,7 +162,7 @@ theme = "hugo-elate-theme"
       title = "Empreendedores"
       description = "Compreender os potenciais da tecnologia inerente a impressão 3D e explorar a oportunidade de aplicar esta tecnologia a tua ideia de negócio."
       icon = "icon-layers2"
-      
+
     [[params.services.item]]
       title = "Makers &amp; Entusiastas 3D"
       description = "Vem-te divertir partilhando a tua experiência e conhecimentos em open source e 3d printing! Precisamos de ti nesta equipa que acredita que o futuro é agora!"
@@ -170,7 +170,7 @@ theme = "hugo-elate-theme"
 
       [[params.services.item]]
       title = "Estudantes (> 16 anos)"
-      description = "Interessados em robótica, habituados a montar kits, com conhecimentos básico em 3D Printing. Aqui podes partilhar experiências com a comunidade Maker e libertar a tua criatividade e a imaginação."      
+      description = "Interessados em robótica, habituados a montar kits, com conhecimentos básico em 3D Printing. Aqui podes partilhar experiências com a comunidade Maker e libertar a tua criatividade e a imaginação."
       icon = "icon-monitor"
 
   # About section
@@ -211,7 +211,7 @@ theme = "hugo-elate-theme"
         ["icon-globe", "#"],
         ["icon-facebook", "#"],
         ["icon-twitter", "#"]
-      ]      
+      ]
 
   # Counters section
   [params.counters]
@@ -226,7 +226,7 @@ theme = "hugo-elate-theme"
       to = 10
       interval = 50
       speed = 5000
-    
+
     [[params.counters.item]]
       description = "Finished projects"
       icon = "icon-briefcase"
@@ -251,7 +251,7 @@ theme = "hugo-elate-theme"
       interval = 50
       speed = 5000
 
-    
+
 
   # Contact section
   [params.contact]
@@ -259,7 +259,7 @@ theme = "hugo-elate-theme"
     map = true
     title = "Inscreve-te"
     description = "Hoje, digo eu, pois amanhã é passado!."
-    
+
     # Available icons: http://simplelineicons.com/
     details = [
         ["icon-home", "Rua da Paz 66, 5º piso, Sala 56<br> 4050-461 Porto, Portugal"],
