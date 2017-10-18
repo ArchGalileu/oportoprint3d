@@ -156,7 +156,7 @@ theme = "hugo-elate-theme"
     [[params.services.item]]
       title = "Designers &amp; Engenheiros"
       description = "Garantidamente neste workshop vais aprender novas linguagens, ferramentas e conhecimento para executar os seus protótipos e projetos."
-      icon = "icon-user-o"
+      icon = "icon-user"
 
     [[params.services.item]]
       title = "Empreendedores"
