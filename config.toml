@@ -182,7 +182,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Gaspar Santos"
       position = "Open source 3D"
-      description = "Violinista à 30 anos, Linux à 20 anos, Servidores à 15 anos, 3D printer for life, with RaspBerry..."
+      description = "Violinista hà 30 anos, Linux hà 20 anos, Servidores hà 15 anos, 3D printer for life, with RaspBerry..."
       img = "person1.jpg"
       alt = "Person1"
       social = [
@@ -192,18 +192,18 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Miguel Magalhães"
-      position = "Arquiteto"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      position = "Arquicteto"
+      description = "Miguel Magalhães nasce em Braga em 1975. Conclui arquitectura no Porto em 2005. Co-fundador do gabinete MMPM arquitectos. Exerce, desde 2009, funções de docente/formador em várias empresas do sector da construção e arquitectura."
       img = "person2.jpg"
       alt = "Person2"
       social = [
-        ["icon-globe", "#"],
-        ["icon-facebook", "#"],
+        ["icon-globe", "http://mmpmarquitectos.com/"],
+        ["icon-facebook", "https://www.facebook.com/caskiris"],
       ]
 
     [[params.about.item]]
       name = "Marta Padilha"
-      position = "Consultora Creativa"
+      position = "Consultora Criativa"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
       img = "person3.jpg"
       alt = "Person3"
@@ -228,18 +228,18 @@ theme = "hugo-elate-theme"
       speed = 5000
 
     [[params.counters.item]]
-      description = "Finished projects"
-      icon = "icon-briefcase"
+      description = "Dias"
+      icon = "icon-sun-o"
       from = 0
-      to = 89
+      to = 2
       interval = 50
       speed = 5000
 
     [[params.counters.item]]
-      description = "Lines of code"
-      icon = "icon-code"
+      description = "Horas"
+      icon = "icon-clock-o"
       from = 0
-      to = 2343409
+      to = 20
       interval = 50
       speed = 5000
 
