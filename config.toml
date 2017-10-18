@@ -40,7 +40,7 @@ theme = "hugo-elate-theme"
   # Hero section
   [params.hero]
     title = "É agora!<br>Constrói a tua Impressora 3D"
-    subtitle = 'Durante as 20h do workshop,<br>vais construir a tua Impressora 3D, aprender modelação 3D e começar a imprimir para não mais parar!'
+    subtitle = 'Durante as 20h do workshop, vais construir uma impressora 3D, aprender modelação 3D e no final levas a tua impressora pronta para casa!'
 
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -150,11 +150,13 @@ theme = "hugo-elate-theme"
   # Services section
   [params.services]
     enable = true
-    title = "Para quem?"
-    description = "Apenas sugerimos, mas a vontade de agarrar a oportunidade é que alimenta a acção!"
+    title = "O que vai acontecer neste WORKSHOP?"
+    description = "Nós fornecemos o kit, tu trazes as tuas ferramentas [abaixo especificadas]. A equipa OPORTO PRINT3D guia-te através do processo de montagem, passo a passo.
+Fazemos os ajustes e afinações mecânicas dos movimentos para uma precisão milimétrica, aspecto muito importante para uma boa impressão. Ajustamos as configurações no software para obter os melhores resultados.
+Vais aprender noções básicas de modelação tridimensional [Autodesk Inventor], traz o teu portátil se possível já com o software instalado. Vais partilhar experiências com entusiastas open source, vais poder introduzir-te na comunidade makers e saber onde encontrar mais informações."
 
     [[params.services.item]]
-      title = "Designers &amp; Engenheiros"
+      title = "Arquitectos, Designers &amp; Engenheiros"
       description = "Garantidamente neste workshop vais aprender novas linguagens, ferramentas e conhecimento para executar os seus protótipos e projetos."
       icon = "icon-user"
 
