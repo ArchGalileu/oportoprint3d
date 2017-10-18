@@ -210,7 +210,7 @@ theme = "hugo-elate-theme"
       social = [
         ["icon-globe", "http://martapadilha.eu/"],
         ["icon-facebook", "https://www.facebook.com/marta.padilha"],
-        ["icon-behance", "#"]
+        ["icon-behance", "https://www.behance.net/martapadilha"]
       ]
 
   # Counters section
