@@ -40,7 +40,7 @@ theme = "hugo-elate-theme"
   # Hero section
   [params.hero]
     title = "É agora!<br>Constrói a tua Impressora 3D"
-    subtitle = 'Durante as 20h do workshop,<br>vais construir a tua Impressora 3d, aprender modelação 3D e começar a imprimir para não mais parar!'
+    subtitle = 'Durante as 20h do workshop,<br>vais construir a tua Impressora 3D, aprender modelação 3D e começar a imprimir para não mais parar!'
 
   # Intro section
   # Available icons: http://simplelineicons.com/
