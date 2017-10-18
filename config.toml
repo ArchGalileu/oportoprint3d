@@ -193,7 +193,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Miguel Magalhães"
       position = "Arquitecto"
-      description = "Conclui arquitectura em 2005. Co-fundador do gabinete MMPMarquitectos. Exerce funções de docente/formador em várias empresas do sector da construção e arquitectura."
+      description = "Conclui arquitectura em 2005.</br>Co-fundador do gabinete MMPMarquitectos. Exerce funções de docente/formador em várias empresas do sector da construção e arquitectura."
       img = "person2.jpg"
       alt = "Person2"
       social = [
