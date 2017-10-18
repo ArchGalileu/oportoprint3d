@@ -6,9 +6,19 @@
     <description>Recent content on OportoPrint3d</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 18 Oct 2017 15:28:26 +0100</lastBuildDate>
     
 	<atom:link href="www.oportoprint3d.eu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Obrigado</title>
+      <link>www.oportoprint3d.eu/obrigado/</link>
+      <pubDate>Wed, 18 Oct 2017 15:28:26 +0100</pubDate>
+      
+      <guid>www.oportoprint3d.eu/obrigado/</guid>
+      <description>Obrigado pelo seu contato Para voltar à página inicial clicar aqui</description>
+    </item>
     
   </channel>
 </rss>
