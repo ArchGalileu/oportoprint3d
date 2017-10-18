@@ -1,7 +1,7 @@
 ---
 title: "Obrigado"
 date: 2017-10-18T15:28:26+01:00
-draft: true
+draft: false
 ---
 # Obrigado pelo seu contato
 
