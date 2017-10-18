@@ -18,7 +18,7 @@ theme = "hugo-elate-theme"
     home = "INÍCIO"
     work = "WORKSHOP"
     testimonials = "Testimonials"
-    services = "workshop"
+    services = "WORKSHOP"
     about = "EQUIPA"
     contact = "INSCRIÇÃO"
 
