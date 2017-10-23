@@ -258,7 +258,7 @@ theme = "hugo-elate-theme"
     enable = true
     map = true
     title = "Inscreve-te"
-    description = "Hoje, digo eu, pois amanhã é passado!."
+    description = "Já ouviste falar em Early Birds? Pois é, se te inscreveres até dia 1 de Novembro temos para ti um preço especialíssimo, a que nós chamamos 'Before' Early Birds! Aproveita hoje, que são 200€ de oferta, pois amanhã já é passado!"
 
     # Available icons: http://simplelineicons.com/
     details = [
