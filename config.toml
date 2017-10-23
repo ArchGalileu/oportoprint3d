@@ -204,7 +204,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Marta Padilha"
       position = "Consultora Criativa"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      description = "Licenciatura em Design Industrial, pela obsessão objectual. Segui-se o mestrado em Marketing e Gestão Estratégica. Dedicação ao Branding & Brand Activation. Design Thinking como Mindset."
       img = "person3.jpg"
       alt = "Person3"
       social = [
