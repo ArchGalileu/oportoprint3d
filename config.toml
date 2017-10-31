@@ -1,7 +1,7 @@
 # Page settings
 baseurl = "www.oportoprint3d.eu"
 title = "OportoPrint3d"
-languageCode = "en-us"
+languageCode = "pt"
 theme = "hugo-elate-theme"
 
 [params]
@@ -278,3 +278,9 @@ theme = "hugo-elate-theme"
   [params.footer]
     enable = true
     copyright = '&copy; OportoPrint3d. All Rights Reserved. <br>Created by <a href="http://gasparsantos.eu/" target="_blank">ME</a> with <a href="http://gohugo.io/" target="_blank">Hugo</a><br>Inspired in: <a href="https://github.com/saey55" target="_blank">Elato Theme</a>'
+
+  # Sitemap
+  [sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
