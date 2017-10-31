@@ -3,6 +3,7 @@ baseurl = "www.oportoprint3d.eu"
 title = "OportoPrint3d"
 languageCode = "pt"
 theme = "hugo-elate-theme"
+googleAnalytics = "UA-107226309-2"
 
 [params]
 
