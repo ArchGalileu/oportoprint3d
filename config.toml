@@ -259,7 +259,7 @@ googleAnalytics = "UA-107226309-2"
     enable = true
     map = true
     title = "Inscreve-te"
-    description = "Já ouviste falar em Early Birds?</br>Pois é, se te inscreveres até dia 1 de Novembro</br>temos para ti um preço especialíssimo,</br>a que nós chamamos 'Before' Early Birds!</br>Aproveita hoje, que são 100€ de oferta,</br>pois amanhã já é passado!"
+    description = "Já ouviste falar em Early Birds?</br>Pois é, se te inscreveres até dia 1 de Novembro</br>temos para ti um preço especialíssimo,</br>a que nós chamamos 'Before' Early Birds!</br>Aproveita hoje, que são € de oferta,</br>pois amanhã já é passado!"
 
     # Available icons: http://simplelineicons.com/
     details = [
