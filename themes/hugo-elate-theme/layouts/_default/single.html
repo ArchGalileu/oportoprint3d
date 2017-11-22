@@ -2,7 +2,7 @@
         {{ partial "head.html" .}}
     </head>
     <body>
-        {{ partial "nav.html" .}}
+        {{ partial "nav-other.html" .}}
 
         <section id="fh5co-home" data-section="home" style="background-image: url(/images/full_image_2.jpg);" data-stellar-background-ratio="0.5">
       		<div class="gradient"></div>
@@ -12,7 +12,8 @@
       					<div class="row">
       						<div class="col-md-8 col-md-offset-2">
       							<h1 class="to-animate">{{ with .Params.title }}{{ . | markdownify }}{{ end }}</h1>
-      							<h2 class="to-animate">{{ with .Content }}{{ . | markdownify }}{{ end }}</h2>
+                    <h2 class="to-animate">{{ with .Params.extra_text1 }}{{ . | markdownify }}{{ end }}</h2>
+                    <h3 class="to-animate">{{ with .Params.extra_text2 }}{{ . | markdownify }}{{ end }}</h3>
       						</div>
       					</div>
       				</div>
@@ -20,6 +21,9 @@
       		</div>
       		<div class="slant"></div>
       	</section>
+
+        <div class="col-md-12 text-center gray">
+        <p>{{.Content}}</p>
 
         {{ if .Site.Params.footer.enable }}
         	{{ partial "footer.html" .}}

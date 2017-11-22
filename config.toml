@@ -28,8 +28,8 @@ googleAnalytics = "UA-107226309-2"
 
     # prepended links
     #[[menu.prepend]]
-    #  url = "http://gohugo.io"
-    #  name = "Hugo"
+    # url = "http://oportoprint3d.eu/"
+    #  name = "teste"
     #  weight = 10
 
     # postpended links
@@ -41,7 +41,7 @@ googleAnalytics = "UA-107226309-2"
   # Hero section
   [params.hero]
     title = "É agora!<br>Constrói a tua Impressora 3D"
-    subtitle = 'Durante as 20h do workshop, vais construir uma impressora 3D, aprender modelação 3D e no final levas a tua impressora pronta para casa!'
+    subtitle = 'Durante as 30h do workshop, vais construir uma impressora 3D, aprender modelação 3D e no final levas a tua impressora pronta para casa!'
 
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -232,7 +232,7 @@ googleAnalytics = "UA-107226309-2"
       description = "Dias"
       icon = "icon-sun-o"
       from = 0
-      to = 2
+      to = 3
       interval = 50
       speed = 5000
 
@@ -240,7 +240,7 @@ googleAnalytics = "UA-107226309-2"
       description = "Horas"
       icon = "icon-clock-o"
       from = 0
-      to = 20
+      to = 30
       interval = 50
       speed = 5000
 
@@ -259,7 +259,7 @@ googleAnalytics = "UA-107226309-2"
     enable = true
     map = true
     title = "Inscreve-te"
-    description = "Já ouviste falar em Early Birds?</br>Pois é, se te inscreveres até dia 1 de Novembro</br>temos para ti um preço especialíssimo,</br>a que nós chamamos 'Before' Early Birds!</br>Aproveita hoje, que são 100€ de oferta,</br>pois amanhã já é passado!"
+    description = "Para saberes quais as próximas datas faz o teu pedido de informações! "
 
     # Available icons: http://simplelineicons.com/
     details = [
