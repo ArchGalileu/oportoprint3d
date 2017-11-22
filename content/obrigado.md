@@ -6,4 +6,3 @@ extra_text1: "em breve receberás no teu email mais informações"
 extra_text2: "[volta à página inicial](/)"
 permalink: "obrigado"
 ---
-# Teste
